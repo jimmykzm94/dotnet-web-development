@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "location": "Senai",
+            "temperature": 27.1,
+            "humidity": 95,
+            "weather": "Sunny"
+        },
+        {
+            "location": "KL",
+            "temperature": 28.1,
+            "humidity": 95.5,
+            "weather": "Sunny"
+        },
+        {
+            "location": "Penang",
+            "temperature": 26.1,
+            "humidity": 98,
+            "weather": "Raining"
+        }
+    ]
+}
